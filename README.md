@@ -1,70 +1,49 @@
-# Getting Started with Create React App
+## Laporan Praktikum
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+|  | Pemrograman Berbasis Framework 2024 |
+|--|--|
+| NIM |  244107027012|
+| Nama |  Wahyudinata |
+| Kelas | 4K-RPL |
 
-## Available Scripts
+### 1. Persiapan Lingkungan
+1. Mengecek instalasi Node.js dan npm <br>
+![1  instalasi](public/images/instalasi.png)
+2. Membuat direktori baru dan Inisialisasi proyek <br>
+![2  create](public/images/2.%20create.png)
+3. Menjalankan aplikasi React <br>
+![3  hasil](public/images/3.%20hasil.png)
 
-In the project directory, you can run:
 
-### `npm start`
+### 2. Membuat Komponen React
+1. Menambahkan beberapa komponen pada App.js <br>
+![4 komponen](public/images/4.komponen.png)
+![app](public/images/app.png)
+2. Menjalankan di browser <br>
+![run](public/images/run.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### 3. Menggunakan JSX untuk Membuat Komponen Dinamis
+1. Menambahkan komponen Counter pada direktori Counter.js dan import komponen <br>
+![count](public/images/counter.png)
+![imp](public/images/import.png)
+2. Menambahkan komponen Counter kedalam App/js <br>
+![count](public/images/addapp.png)
+3. Menjalankan proyek React
+![tambah](public/images/tambah.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 4. Menggunakan Props untuk Mengirimkan Data
+1. Menambahkan komponen Greeting yang menerima Props dan import <br>
+![gree](public/images/greeting.png) 
+![impo](public/images/imp.png) 
+2. Menambahkan komponen Greeting ke dalam komponen App dan kirim props name <br>
+![ok](public/images/ok.png)
+3. Menjalankan pada browser
+![has](public/images/has.png)
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### 5. Menggunakan State untuk Mengelola Data 
+1. Menambahkan komponen Example pengelola state di file App.js <br>
+![state](public/images/state.png) 
+2. Menambahkan komponen Example kedalam komponen App <br>
+![oki](public/images/oki.png) 
+3. Menjalankan proyek <br>
+![final](public/images/final.png) 

@@ -24,20 +24,20 @@
 
 ### 3. Menggunakan JSX untuk Membuat Komponen Dinamis
 1. Menambahkan komponen Counter pada direktori Counter.js dan import komponen <br>
-![count](public/images/counter.png)
+![count](public/images/counter.png) <br>
 ![imp](public/images/import.png)
-2. Menambahkan komponen Counter kedalam App/js <br>
+2. Menambahkan komponen Counter kedalam komponen App <br>
 ![count](public/images/addapp.png)
-3. Menjalankan proyek React
+3. Menjalankan proyek React <br>
 ![tambah](public/images/tambah.png)
 
 ### 4. Menggunakan Props untuk Mengirimkan Data
 1. Menambahkan komponen Greeting yang menerima Props dan import <br>
-![gree](public/images/greeting.png) 
+![gree](public/images/greeting.png) <br>
 ![impo](public/images/imp.png) 
 2. Menambahkan komponen Greeting ke dalam komponen App dan kirim props name <br>
 ![ok](public/images/ok.png)
-3. Menjalankan pada browser
+3. Menjalankan pada browser <br>
 ![has](public/images/has.png)
 
 ### 5. Menggunakan State untuk Mengelola Data 
@@ -52,7 +52,7 @@
 1. Menambahkan komponen baru pada file Todo.js <br>
 ![todo](public/images/todo.png) 
 ![todo1](public/images/sstodo.png) 
-2. Menambahkan komponen TodoList pada App.js <br>
+2. Menambahkan komponen TodoList pada komponen App <br>
 ![image](https://github.com/user-attachments/assets/098c8ca9-2548-4c42-8fba-ac8c4e3020d1)
  3. Hasil <br>
 ![fix](public/images/fix.png)

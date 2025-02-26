@@ -53,6 +53,6 @@
 ![todo](public/images/todo.png) 
 ![todo1](public/images/sstodo.png) 
 2. Menambahkan komponen TodoList pada App.js <br>
-![todo2](public/images/todo2.png) 
-3. Hasil <br>
+![image](https://github.com/user-attachments/assets/098c8ca9-2548-4c42-8fba-ac8c4e3020d1)
+ 3. Hasil <br>
 ![fix](public/images/fix.png)

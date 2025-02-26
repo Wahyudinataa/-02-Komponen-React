@@ -47,3 +47,12 @@
 ![oki](public/images/oki.png) 
 3. Menjalankan proyek <br>
 ![final](public/images/final.png) 
+
+### 6. Mengerjakan Tugas ToDoList
+1. Menambahkan komponen baru pada file Todo.js <br>
+![todo](public/images/todo.png) 
+![todo1](public/images/sstodo.png) 
+2. Menambahkan komponen TodoList pada App.js <br>
+![todo2](public/images/todo2.png) 
+3. Hasil <br>
+![fix](public/images/fix.png)

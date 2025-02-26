@@ -2,6 +2,9 @@ import "./App.css";
 import Counter from "./Counter";
 import Example from "./Example";
 import Greeting from "./Greeting";
+import React from "react";
+import TodoList from "./Todo";
+
 
 function Header() {
   return (
@@ -28,9 +31,6 @@ function Footer() {
   );
 }
 
-function Todo(){
-  ret
-}
 
 function App() {
   return (
@@ -40,6 +40,7 @@ function App() {
       <Greeting name="Dinata" />
       <Counter />
       <Example />
+      <TodoList />
       <Footer />
     </div>
   );
